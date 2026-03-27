@@ -1,0 +1,6 @@
+[2026-03-28 03:03:40,806] [INFO] [trading_bot] - [MOCK] Placing order: BTCUSDT, BUY, MARKET, 0.07, None
+[2026-03-28 03:03:41,807] [INFO] [trading_bot] - [MOCK] Order response: {'orderId': 319228, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'mockOrder123', 'executedQty': '0.07', 'avgPrice': '65000', 'type': 'MARKET', 'side': 'BUY'}
+[2026-03-28 03:03:41,808] [INFO] [trading_bot] - UI: Order placed successfully.
+[2026-03-28 03:04:55,678] [INFO] [trading_bot] - [MOCK] Placing order: BTCUSDT, SELL, LIMIT, 0.04, 60000.0
+[2026-03-28 03:04:56,678] [INFO] [trading_bot] - [MOCK] Order response: {'orderId': 632027, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'mockOrder123', 'executedQty': '0.04', 'avgPrice': '60000.0', 'type': 'LIMIT', 'side': 'SELL'}
+[2026-03-28 03:04:56,680] [INFO] [trading_bot] - UI: Order placed successfully.

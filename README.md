@@ -80,5 +80,5 @@ trading_bot/
 python cli.py place-order --symbol BTCUSDT --side BUY --type MARKET --quantity 0.05 --mock
 ```
 2. Check Logs
-```Open trading_bot.log to confirm the simulated order execution.
+```Open trading_bot.log to confirm the simulated order execution
 ```
